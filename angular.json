@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "g-help"
+    }
+  },
+  "defaultProject": "g-help",
+  "cli": {
+    "analytics": "cb59447e-c3ea-4efb-8040-a7ef91dcf8b3"
+  }
 }
